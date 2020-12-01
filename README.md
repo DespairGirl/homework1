@@ -5,7 +5,7 @@
 [HORISEON](https://despairgirl.github.io/homework1/)
 
 
->Through this project, I gained a deeper understanding of semnatic HTML elements and their importance for web development: Readability & Accessiblity!
+>Through this project, I gained a deeper understanding of semnatic HTML elements and their importance for web development: Readability & Accessiblity! For developers and Browsers, semantic elements help give meaning to content on the page and how it should be organized. It also helps those using assistive technologies-- for example, those who are vision impaired--actually recieve and understand web content.
 
 ![Horiseon Site Screenshot](horiseon.png)
 
